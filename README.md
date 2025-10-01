@@ -26,7 +26,6 @@
 
 &nbsp; 
 
-![Features Overview](DNotch/demo/3.gif)
 
 
 
