@@ -2,11 +2,6 @@
 
 **Transform your MacBook's notch into a powerful productivity hub & presently configured for 14inch macs**
 
-&nbsp; 
-
-![Features Overview](DNotch/demo/3.gif)
-
-&nbsp; 
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![macOS](https://img.shields.io/badge/macOS-13.0+-blue.svg)](https://developer.apple.com/macos/)
@@ -31,9 +26,14 @@
 
 &nbsp; 
 
+![Features Overview](DNotch/demo/3.gif)
+
+
+
 ![Features Overview](DNotch/demo/2.png)
 
 &nbsp; 
+
 
 ## 🛠️ Tech Stack
 
