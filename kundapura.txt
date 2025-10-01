@@ -1,0 +1,161 @@
+total 24
+drwxr-xr-x   7 himanshuvinchurkar  staff   224  1 Oct 18:03 .
+drwxr-xr-x@ 41 himanshuvinchurkar  staff  1312  1 Oct 14:00 ..
+	com.apple.macl	  72 
+-rw-r--r--@  1 himanshuvinchurkar  staff  6148  1 Oct 18:00 .DS_Store
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  11 himanshuvinchurkar  staff   352  1 Oct 15:58 DNotch
+drwxr-xr-x@  5 himanshuvinchurkar  staff   160  1 Oct 17:58 DNotch.xcodeproj
+	com.apple.lastuseddate#PS	  16 
+-rw-r--r--   1 himanshuvinchurkar  staff     0  1 Oct 18:03 kundapura.txt
+-rw-r--r--   1 himanshuvinchurkar  staff  1858  1 Oct 17:56 README.md
+
+./DNotch:
+total 192
+drwxr-xr-x  11 himanshuvinchurkar  staff    352  1 Oct 15:58 .
+drwxr-xr-x   7 himanshuvinchurkar  staff    224  1 Oct 18:03 ..
+-rw-r--r--@  1 himanshuvinchurkar  staff   8196  1 Oct 18:00 .DS_Store
+	com.apple.FinderInfo	   32 
+-rw-r--r--@  1 himanshuvinchurkar  staff    440  1 Oct 15:00 .gitignore
+	com.apple.lastuseddate#PS	   16 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	  137 
+drwxr-xr-x   6 himanshuvinchurkar  staff    192  1 Oct 18:00 Assets.xcassets
+-rw-r--r--@  1 himanshuvinchurkar  staff  46305  1 Oct 14:56 ContentView.swift
+	com.apple.lastuseddate#PS	   16 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	  201 
+drwxr-xr-x   6 himanshuvinchurkar  staff    192  1 Oct 16:25 demo
+-rw-r--r--@  1 himanshuvinchurkar  staff   1864  1 Oct 14:53 DNotchApp.swift
+	com.apple.lastuseddate#PS	   16 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	  169 
+-rw-r--r--@  1 himanshuvinchurkar  staff    181  1 Oct 17:58 Info.plist
+	com.apple.lastuseddate#PS	   16 
+	com.apple.macl	   72 
+-rw-r--r--@  1 himanshuvinchurkar  staff  16882  1 Oct 14:56 NotchHitTest.swift
+	com.apple.lastuseddate#PS	   16 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	  201 
+-rw-r--r--@  1 himanshuvinchurkar  staff    933  1 Oct 14:54 OverlayWindow.swift
+	com.apple.lastuseddate#PS	   16 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	  169 
+
+./DNotch/Assets.xcassets:
+total 32
+drwxr-xr-x   6 himanshuvinchurkar  staff   192  1 Oct 18:00 .
+drwxr-xr-x  11 himanshuvinchurkar  staff   352  1 Oct 15:58 ..
+-rw-r--r--@  1 himanshuvinchurkar  staff  8196  1 Oct 18:00 .DS_Store
+	com.apple.FinderInfo	  32 
+drwxr-xr-x   3 himanshuvinchurkar  staff    96 20 Sep 15:16 AccentColor.colorset
+drwxr-xr-x   3 himanshuvinchurkar  staff    96 20 Sep 15:16 AppIcon.appiconset
+-rw-r--r--@  1 himanshuvinchurkar  staff    63 20 Sep 15:16 Contents.json
+	com.apple.TextEncoding	  15 
+
+./DNotch/Assets.xcassets/AccentColor.colorset:
+total 8
+drwxr-xr-x  3 himanshuvinchurkar  staff   96 20 Sep 15:16 .
+drwxr-xr-x  6 himanshuvinchurkar  staff  192  1 Oct 18:00 ..
+-rw-r--r--@ 1 himanshuvinchurkar  staff  123 20 Sep 15:16 Contents.json
+	com.apple.TextEncoding	 15 
+
+./DNotch/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 himanshuvinchurkar  staff   96 20 Sep 15:16 .
+drwxr-xr-x  6 himanshuvinchurkar  staff  192  1 Oct 18:00 ..
+-rw-r--r--  1 himanshuvinchurkar  staff  904 20 Sep 15:16 Contents.json
+
+./DNotch/demo:
+total 47440
+drwxr-xr-x   6 himanshuvinchurkar  staff       192  1 Oct 16:25 .
+drwxr-xr-x  11 himanshuvinchurkar  staff       352  1 Oct 15:58 ..
+-rw-r--r--@  1 himanshuvinchurkar  staff      6148  1 Oct 17:16 .DS_Store
+	com.apple.FinderInfo	      32 
+-rw-r--r--@  1 himanshuvinchurkar  staff    175207 26 Sep 16:21 1.png
+	com.apple.FinderInfo	      32 
+	com.apple.lastuseddate#PS	      16 
+	com.apple.macl	      72 
+	com.apple.metadata:kMDItemIsScreenCapture	      42 
+	com.apple.metadata:kMDItemScreenCaptureGlobalRect	      76 
+	com.apple.metadata:kMDItemScreenCaptureType	      49 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	     121 
+	com.apple.quarantine	      22 
+-rw-r--r--@  1 himanshuvinchurkar  staff    361037 26 Sep 16:19 2.png
+	com.apple.FinderInfo	      32 
+	com.apple.lastuseddate#PS	      16 
+	com.apple.macl	      72 
+	com.apple.metadata:kMDItemIsScreenCapture	      42 
+	com.apple.metadata:kMDItemScreenCaptureGlobalRect	      76 
+	com.apple.metadata:kMDItemScreenCaptureType	      49 
+	com.apple.metadata:kMDLabel_rjo4svgerou4fily7dbbjkmfwy	     121 
+	com.apple.quarantine	      22 
+-rw-r--r--@  1 himanshuvinchurkar  staff  23738307  1 Oct 16:15 3.gif
+	com.apple.lastuseddate#PS	      16 
+	com.apple.metadata:kMDItemWhereFroms	      87 
+	com.apple.quarantine	      56 
+
+./DNotch.xcodeproj:
+total 24
+drwxr-xr-x@ 5 himanshuvinchurkar  staff    160  1 Oct 17:58 .
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  7 himanshuvinchurkar  staff    224  1 Oct 18:03 ..
+-rw-r--r--  1 himanshuvinchurkar  staff  11578  1 Oct 17:58 project.pbxproj
+drwxr-xr-x@ 5 himanshuvinchurkar  staff    160  1 Oct 17:51 project.xcworkspace
+	com.apple.lastuseddate#PS	   16 
+drwxr-xr-x  3 himanshuvinchurkar  staff     96  1 Oct 17:56 xcuserdata
+
+./DNotch.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x@ 5 himanshuvinchurkar  staff  160  1 Oct 17:51 .
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x@ 5 himanshuvinchurkar  staff  160  1 Oct 17:58 ..
+	com.apple.lastuseddate#PS	 16 
+-rw-r--r--  1 himanshuvinchurkar  staff  135 20 Sep 15:16 contents.xcworkspacedata
+drwxrwxrwx  3 himanshuvinchurkar  staff   96 20 Sep 15:16 xcshareddata
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:51 xcuserdata
+
+./DNotch.xcodeproj/project.xcworkspace/xcshareddata:
+total 0
+drwxrwxrwx  3 himanshuvinchurkar  staff   96 20 Sep 15:16 .
+drwxr-xr-x@ 5 himanshuvinchurkar  staff  160  1 Oct 17:51 ..
+	com.apple.lastuseddate#PS	 16 
+drwxrwxrwx  3 himanshuvinchurkar  staff   96 20 Sep 15:26 swiftpm
+
+./DNotch.xcodeproj/project.xcworkspace/xcshareddata/swiftpm:
+total 0
+drwxrwxrwx  3 himanshuvinchurkar  staff  96 20 Sep 15:26 .
+drwxrwxrwx  3 himanshuvinchurkar  staff  96 20 Sep 15:16 ..
+drwxrwxrwx  2 himanshuvinchurkar  staff  64 20 Sep 15:16 configuration
+
+./DNotch.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration:
+total 0
+drwxrwxrwx  2 himanshuvinchurkar  staff  64 20 Sep 15:16 .
+drwxrwxrwx  3 himanshuvinchurkar  staff  96 20 Sep 15:26 ..
+
+./DNotch.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:51 .
+drwxr-xr-x@ 5 himanshuvinchurkar  staff  160  1 Oct 17:51 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 18:02 himanshuvinchurkar.xcuserdatad
+
+./DNotch.xcodeproj/project.xcworkspace/xcuserdata/himanshuvinchurkar.xcuserdatad:
+total 112
+drwxr-xr-x  3 himanshuvinchurkar  staff     96  1 Oct 18:02 .
+drwxr-xr-x  3 himanshuvinchurkar  staff     96  1 Oct 17:51 ..
+-rw-r--r--  1 himanshuvinchurkar  staff  56868  1 Oct 18:02 UserInterfaceState.xcuserstate
+
+./DNotch.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:56 .
+drwxr-xr-x@ 5 himanshuvinchurkar  staff  160  1 Oct 17:58 ..
+	com.apple.lastuseddate#PS	 16 
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:56 himanshuvinchurkar.xcuserdatad
+
+./DNotch.xcodeproj/xcuserdata/himanshuvinchurkar.xcuserdatad:
+total 0
+drwxr-xr-x  3 himanshuvinchurkar  staff  96  1 Oct 17:56 .
+drwxr-xr-x  3 himanshuvinchurkar  staff  96  1 Oct 17:56 ..
+drwxr-xr-x  3 himanshuvinchurkar  staff  96  1 Oct 17:56 xcschemes
+
+./DNotch.xcodeproj/xcuserdata/himanshuvinchurkar.xcuserdatad/xcschemes:
+total 8
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:56 .
+drwxr-xr-x  3 himanshuvinchurkar  staff   96  1 Oct 17:56 ..
+-rw-r--r--  1 himanshuvinchurkar  staff  341  1 Oct 17:56 xcschememanagement.plist
