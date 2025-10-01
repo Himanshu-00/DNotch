@@ -10,10 +10,8 @@
 
 > A Dynamic Island-style application that brings iPhone's innovative UI to your MacBook
 
-&nbsp; 
-
-![DNotch Demo](DNotch/demo/1.png)
-
+&nbsp;
+<img src="DNotch/demo/3.gif" width="400" height="150" alt="DNotch Demo"></img>
 &nbsp; 
 
 ## ✨ Features
@@ -26,7 +24,7 @@
 
 &nbsp; 
 
-
+![DNotch Demo](DNotch/demo/1.png)
 
 
 ![Features Overview](DNotch/demo/2.png)
