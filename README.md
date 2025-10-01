@@ -32,14 +32,14 @@
 &nbsp; 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Swift 5.9+** with SwiftUI + AppKit
 - **AVFoundation** for media previews
 - **IOKit** for battery monitoring
 - **Swift 6** concurrency ready
 
-## 🚀 Quick Start
+## Quick Start
 ```
 git clone https://github.com/YOUR_USERNAME/DNotch.git
 cd DNotch
@@ -48,7 +48,7 @@ open DNotch.xcodepro
 Press `⌘ + R` to build and run!
 ```
 
-## 💡 Usage
+## Usage
 
 1. **Hover** over notch area to reveal interface
 2. **Drag files** for instant previews and quick access
@@ -56,7 +56,7 @@ Press `⌘ + R` to build and run!
 4. **Right-click files** for context menu
 
 
-## 🐛 Known Issues
+## Known Issues
 
 - Occasional 5-second drag delay (investigating)
 - High memory with large video files
