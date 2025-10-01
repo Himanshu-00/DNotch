@@ -12,11 +12,7 @@ import SwiftUI
 
 class EnhancedHitTestView: NSView {
     var notchState: EnhancedNotchState
-<<<<<<< HEAD
-    private var showDebugColors = true  // Toggle for debug colors
-=======
     private var showDebugColors = false  // Toggle for debug colors
->>>>>>> a5c3318 (update)
     private var isExpanding = false
     private var expandTimer: DispatchWorkItem?
 
