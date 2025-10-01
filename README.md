@@ -11,7 +11,7 @@
 
 &nbsp; 
 
-![DNotch Demo](demo/1.png)
+![DNotch Demo](DNotch/demo/1.png)
 
 &nbsp; 
 
@@ -25,7 +25,7 @@
 
 &nbsp; 
 
-![Features Overview](demo/2.png)
+![Features Overview](DNotch/demo/2.png)
 
 &nbsp; 
 
